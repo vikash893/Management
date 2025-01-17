@@ -1,4 +1,4 @@
-# employ management system 
+
 class Employee:
     def __init__(self , name , emp_id , deptt , salary):
         self.name = name
